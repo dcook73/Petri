@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\trippypowerhouseofthecell.png",
+        "source": "C:\\AndroidProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\trippypowerhouseofthecell.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\smallpowerhouseofthecellicon.png",
+        "source": "C:\\AndroidProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\smallpowerhouseofthecellicon.png"
+    },
+    {
+        "merged": "C:\\Users\\cookd\\AndroidStudioProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\cookd\\AndroidStudioProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\smallpowerhouseofthecellicon.png",
+        "source": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\smallpowerhouseofthecellicon.png"
+    },
+    {
+        "merged": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\trippypowerhouseofthecell.png",
+        "source": "C:\\Users\\danei\\AndroidStudioProjects\\Petri\\app\\src\\main\\res\\mipmap-hdpi\\trippypowerhouseofthecell.png"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petri</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sand_box">SandBox</string>
+</resources>
